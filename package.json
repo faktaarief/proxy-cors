@@ -1,0 +1,14 @@
+{
+  "name": "proxy-cors",
+  "version": "1.0.0",
+  "description": "Third-party application for request API outside the browser",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fakta Arief",
+  "license": "ISC",
+  "dependencies": {
+    "cors-anywhere": "^0.4.3"
+  }
+}
